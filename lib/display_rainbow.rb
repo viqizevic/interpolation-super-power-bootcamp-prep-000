@@ -8,4 +8,5 @@ def display_rainbow(colors)
   text = "#{text}, B:#{colors[4]}"
   text = "#{text}, I:#{colors[5]}"
   text = "#{text}, V:#{colors[6]}"
+  puts text
 end
